@@ -10,12 +10,12 @@ A small app, show aggregated result for some game event. Reason to have more the
 Requirements
 ------------
 Some requirements:
-    - [x] Use Python 3.x
-    - [x] Console application.
-    - [x] at least two data sources
-    - [x] Display/update screen then result change in one of the source, while providing another providers current data.
-    - [x] Asynchronous data read from data sources.
-    - [ ] websockets would be a big plus
+- [x] Use Python 3.x
+- [x] Console application.
+- [x] at least two data sources
+- [x] Display/update screen then result change in one of the source, while providing another providers current data.
+- [x] Asynchronous data read from data sources.
+- [ ] websockets would be a big plus
 
 Sources
 -------
