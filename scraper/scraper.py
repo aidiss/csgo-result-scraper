@@ -137,7 +137,6 @@ def scrape_hltv(response_body: str) -> collections.defaultdict:
 
     d['status'] = etree.xpath("//div[@class='countdown']/text()")[0]
     #d['status'] = "bestof"
-    print(d)
     return d
 
 
