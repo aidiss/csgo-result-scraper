@@ -100,6 +100,9 @@ To start scraping run::
 This would start scraping. Results will be displayed in
 command line.
 
+Example scrape::
+
+    scrape https://www.gosugamers.net/counterstrike/tournaments/23872-ecs-season-5/6677-regional-finals/23877-europe/matches/235650-astralis-vs-ninjas-in-pyjamas https://www.hltv.org/matches/2321241/complexity-vs-optic-dreamhack-masters-marseille-2018-north-america-closed-qualifier
 
 Extra stuff done:
     - [x] docs (generating requires sphinx)
