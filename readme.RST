@@ -64,18 +64,18 @@ Datastructure
 -------------
 Analysis, required for future development. Not all fields listed bellow are used in current version.
 These are the fields to scrape. All data is provided by source, (we should have our internal ids too)
-    - team1_name 
-    - team1_id
-    - team2_name
-    - team2_id
-    - score_match - score in rounds (1, 1) or (0, 1)
-    - score_rounds - ((16, 2), (0, 16)) or ((0, 16))
-    - status - ('complete', 'in_progress', 'not_started')
-    - event_name
-    - event_id 
-    - source - ('gosugamers', 'hltv')
-    - start_time
-    - scraped_time
+- team1_name 
+- team1_id
+- team2_name
+- team2_id
+- score_match - score in rounds (1, 1) or (0, 1)
+- score_rounds - ((16, 2), (0, 16)) or ((0, 16))
+- status - ('complete', 'in_progress', 'not_started')
+- event_name
+- event_id 
+- source - ('gosugamers', 'hltv')
+- start_time
+- scraped_time
 
 Installation
 ------------
