@@ -81,9 +81,9 @@ These are the fields to scrape. All data is provided by source, (we should have 
 
 Installation
 ------------
-Install with pip:
+Install with pip::
 
-    ``pip install git+https://github.com/aidiss/csgo_result_scraper``
+    pip install git+https://github.com/aidiss/csgo_result_scraper
     
 or::
     
