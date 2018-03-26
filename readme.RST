@@ -77,16 +77,28 @@ These are the fields to scrape. All data is provided by source, (we should have 
     - start_time
     - scraped_time
 
+Installation
+------------
+Install with pip:
+
+    ``pip install git+https://github.com/aidiss/csgo_result_scraper``
+    
+or
+    
+    git clone https://github.com/aidiss/csgo_result_scraper
+    cd csgo_result_scraper
+    python setup.py install
+    
 Use
 ---
 To start scraping run::
 
-    python scraper.py firsturl secondurl
+    scrape gosugamers.net/matchurl hltv.org/matchurl
 
 This would start scraping. Results will be displayed in
 command line.
 
 
 Extra stuff done:
-    - [x] docs
-    - [x] tests
+    - [x] docs (generating requires sphinx)
+    - [x] tests (run with `python -m nose tests/`
