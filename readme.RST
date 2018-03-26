@@ -10,6 +10,7 @@ A small app, show aggregated result for some game event. Reason to have more the
 Requirements
 ------------
 Some requirements:
+
 - [x] Use Python 3.x
 - [x] Console application.
 - [x] at least two data sources
@@ -63,7 +64,8 @@ GOSU
 Datastructure
 -------------
 Analysis, required for future development. Not all fields listed bellow are used in current version.
-These are the fields to scrape. All data is provided by source, (we should have our internal ids too)
+These are the fields to scrape. All data is provided by source, (we should have our internal ids too):
+
 - team1_name 
 - team1_id
 - team2_name
