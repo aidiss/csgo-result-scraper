@@ -83,12 +83,12 @@ Install with pip:
 
     ``pip install git+https://github.com/aidiss/csgo_result_scraper``
     
-or
+or::
     
     git clone https://github.com/aidiss/csgo_result_scraper
     cd csgo_result_scraper
     python setup.py install
-    
+
 Use
 ---
 To start scraping run::
